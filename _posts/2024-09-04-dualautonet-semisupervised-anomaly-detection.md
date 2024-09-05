@@ -18,3 +18,7 @@ In this post, we’ll dive into:
 - The **core concepts** of the DualAutoNet approach.
 - The **semi-supervised learning process** used to train the dual autoencoders.
 - The **ensemble score calculation** for identifying anomalies.
+
+
+# Core Concepts of the DualAutoNet approach
+
